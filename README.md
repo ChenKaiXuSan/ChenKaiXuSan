@@ -55,8 +55,13 @@ class Attributes(ChenKaiXu):
 
 	return langs, specialities, research topic, ide, pc
 ```
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chenkaixusan" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenkaixusan&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=js,aws,bash,cs,cpp,django,docker,flask,git,github,linux,md,php,py,pytorch,qt,raspberrypi,vim,vscode,vue,)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenkaixusan)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=js,aws,bash,cs,cpp,django,docker,flask,git,github,linux,md,php,py,pytorch,qt,raspberrypi,vim,vscode,vue,)](https://skillicons.dev)
