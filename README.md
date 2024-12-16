@@ -58,3 +58,5 @@ class Attributes(ChenKaiXu):
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=js,aws,bash,cs,cpp,django,docker,flask,git,github,linux,md,php,py,pytorch,qt,raspberrypi,vim,vscode,vue,)](https://skillicons.dev)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenkaixusan)](https://github.com/anuraghazra/github-readme-stats)
