@@ -37,7 +37,7 @@ class Attributes(ChenKaiXu):
         ide           = ['vscode']
         pc            = {
             'MacOS': {
-                'macbook pro m1': {
+                'macmini m1': {
                     'processor': 'm1 | 8 cores',
                     'ram'      : '16gb',
                     'gpu'      : 'm1 | 8 cores'
