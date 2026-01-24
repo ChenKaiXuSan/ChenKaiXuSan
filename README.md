@@ -12,7 +12,7 @@ class Attributes(ChenKaiXu):
     def contact(self) -> Tuple[str, str, str]:
 
         email    = "chenkaixusan@gmail.com"
-        google_scholar = "https://scholar.google.com/citations?user=kpNboagAAAAJ&hl=zh-CN"
+        google_scholar = "https://scholar.google.com/citations?user=kpNboagAAAAJ"
         blog     = "https://chenkaixusan.github.io/blog/"
         linkedin = "https://www.linkedin.com/in/chenkaixusan/"
 
@@ -41,14 +41,18 @@ class Attributes(ChenKaiXu):
                     'processor': 'm1 | 8 cores',
                     'ram'      : '16gb',
                     'gpu'      : 'm1 | 8 cores'
-                }
+                },
+				'macbook pro': {
+					'processor': 'm5 | 10 cores',
+                    'ram'      : '24gb',
+                    'gpu'      : 'm5 | 10 cores'
             },
             'Windows': {
                 'custom': {
                     'OS'       : 'Windows 11',
                     'processor': 'AMD ryzen 7 5700X | 8 cores',
                     'ram'      : '64gb 2400',
-                    'gpu'      : 'nvidia 2070 super'
+                    'gpu'      : 'nvidia 3080'
                 }
             }
         }
